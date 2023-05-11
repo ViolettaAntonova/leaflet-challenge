@@ -1,6 +1,15 @@
 # leaflet-challenge
 Challenge 15
 
+# Files
+- Dashboard host
+
+  [https://violettaantonova.github.io/belly-button-challenge/](https://violettaantonova.github.io/leaflet-challenge/)
+- Code files:
+  - [index.html](Leaflet-Part-1/index.html)
+  - [Earthquake Visualization](Leaflet-Part-1/static/js/app.js)
+  - [Earthquake Visualization styles](Leaflet-Part-1/static/css/style.css)
+
 # Instructions
 
 The instructions for this activity are broken into two parts:
