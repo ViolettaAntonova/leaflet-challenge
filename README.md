@@ -6,9 +6,9 @@ Challenge 15
 
   [https://violettaantonova.github.io/belly-button-challenge/](https://violettaantonova.github.io/leaflet-challenge/)
 - Code files:
-  - [index.html](Leaflet-Part-1/index.html)
-  - [Earthquake Visualization](Leaflet-Part-1/static/js/logic.js)
-  - [Earthquake Visualization styles](Leaflet-Part-1/static/css/style.css)
+  - [index.html](index.html)
+  - [Earthquake Visualization](static/js/logic.js)
+  - [Earthquake Visualization styles](static/css/style.css)
 
 # Instructions
 
