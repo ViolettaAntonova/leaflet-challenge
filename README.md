@@ -4,7 +4,7 @@ Challenge 15
 # Files
 - Dashboard host
 
-  [https://violettaantonova.github.io/belly-button-challenge/](https://violettaantonova.github.io/leaflet-challenge/)
+  [https://violettaantonova.github.io/leaflet-challenge/](https://violettaantonova.github.io/leaflet-challenge/)
 - Code files:
   - [index.html](index.html)
   - [Earthquake Visualization](static/js/logic.js)
