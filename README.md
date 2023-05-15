@@ -11,10 +11,7 @@ Challenge 15
   - [Earthquake Visualization styles](static/css/style.css)
 
 # Instructions
-
-The instructions for this activity are broken into two parts:
   - Part 1: Create the Earthquake Visualization
-  - Part 2: Gather and Plot More Data (Optional with no extra points earning)
   
 # Part 1: Create the Earthquake Visualization
 
@@ -30,14 +27,3 @@ Your first task is to visualize an earthquake dataset. Complete the following st
   - Include popups that provide additional information about the earthquake when its associated marker is clicked.
   - Create a legend that will provide context for your map data.
   - Your visualization should look something like the preceding map.
-  
-# Part 2: Gather and Plot More Data (Optional with no extra points earning)
-
-Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates Links to an external site..
-This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.
-
-Perform the following tasks:
-  - Plot the tectonic plates dataset on the map in addition to the earthquakes.
-  - Add other base maps to choose from.
-  - Put each dataset into separate overlays that can be turned on and off independently.
-  - Add layer controls to your map.
